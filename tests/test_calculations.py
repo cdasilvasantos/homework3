@@ -16,4 +16,4 @@ def test_multiplication():
 def test_division():
     '''Test division'''
     assert divide(2,2) == 1
-    
+
